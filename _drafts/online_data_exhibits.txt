@@ -1,0 +1,73 @@
+I'm looking for well-told data stories or museum exhibits, something I can model ca h2o after. I want to find 5 - 10 and do a quick analysis of each one: what I like and don't like.
+
+show, don't tell
+
+https://www.thinkwithgoogle.com/articles/tell-meaningful-stories-with-data.html
+stories are effective ways of learning, information that is experienced is retained
+engage intellect and emotions
+"data visualization should complement the narrative"
+
+
+https://www.maptive.com/101-guide-telling-compelling-story-data/
+6 steps to telling a story with data
+1. Find an irresistible story. Ask a good question.
+2. Remember your audience. 
+3. Research to find data.
+4. Vet your data sources.
+5. Filter your findings. Use relevant data.
+6. Decide on a data visualization.
+7. Craft the story.
+8. Gather feedback.
+
+http://ww2.kqed.org/lowdown/2014/01/10/how-city-populations-change/
+
+Some simple, some more complex, use a variety of media:
+http://americanhistory.si.edu/exhibitions/america-on-the-move
+
+from, https://indianajen.com/2011/05/29/the-best-online-interactive-museum-exhibits/
+http://www.history.org/history/museums/multimedia.cfm?sort=interactive
+https://www.fieldmuseum.org/science/research/area/fossils-meteorites
+http://www.history.org/history/paintings/george_washington/
+http://www.history.org/history/museums/clothingexhibit/index.cfm
+
+
+https://www.koshland-science-museum.org/explore-the-science/exhibits
+https://www.exploratorium.edu/
+
+
+Food Insecurity Graphics
+(really good)
+http://www.metoffice.gov.uk/food-insecurity-index/
+- plenty of interactivity, good simple entrance, simple and straightforward action
+- tool tips anyway
+- but lacks the easy ability to go much more in depth
+- some pop-up buttons with more info
+- about section is a long section of text
+
+
+accessibility (what technologies are used)
+connect information
+structure vs. unstructure data
+- charts
+- maps
+- images
+- video
+- audio
+narrative flow, ability to wrap around
+
+
+From: http://www.howdesign.com/featured-design-news/experience-design-public-spaces/
+1. Design for different levels of engagement
+"make the audience forget they're an audience"
+2. Be spatially literate.
+3. Give people superpowers.
+"minor interaction results in a major moment"
+4. User failure is not an option.
+"When something doesn’t work in the way it’s supposed to, it’s the fault of the experience and its creators, not the person interacting with it"
+5. Be conscise.
+"even a breeze by can result in a good impression"
+6. Don't get hung up on technology.
+
+
+
+Multiple scales of interaction. For those passing by, for those more interested. 
