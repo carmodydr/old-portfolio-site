@@ -9,7 +9,7 @@ background:         'assets/img/whitney.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 #url:		    http://carmodydr.github.io
-url:                http://www.dancarmodymorse.com
+url:                http://www.dancarmodymorse.com/old-portfolio-site/
 #url:		    http://localhost:4000
 
 # Jekyll
